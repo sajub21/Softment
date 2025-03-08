@@ -1,0 +1,1 @@
+Error: Unsupported file format. Use .text, .csv, .json.
